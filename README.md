@@ -7,11 +7,11 @@ Bonjour,
 
 Ce programme s'occupe de la gestion du filtre a papier FapDan's V2 imprimmer en 3D
 
-Materiel necessaire : 
-arduino mini 
-2 led 
-1 relais/mosfet 
-1 bouton 
+Materiel necessaire :  
+arduino mini  
+2 led
+1 relais/mosfet
+1 bouton
 
 Fonctions : 
 Temposisation du flotteur pour ne pas avoir de declanchement du motoreducteur trop minime a repetition
