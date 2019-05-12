@@ -8,7 +8,7 @@ Bonjour,
 Ce programme s'occupe de la gestion du filtre a papier FapDan's V2 imprimmer en 3D
 
 Materiel necessaire :  
-1 arduino mini  
+1 arduino nano  
 2 led  
 1 relais/mosfet  
 1 bouton  
