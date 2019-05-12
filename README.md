@@ -14,10 +14,10 @@ arduino mini
 1 bouton  
 
 Fonctions :   
-> Temposisation du flotteur pour ne pas avoir de declanchement du motoreducteur trop minime a repetition  
-> Un appuye prolonger sur le bouton permet de faire tourner le motoreducteur  
-> Detection de fin de rouleau (delais flotteur haut trop important) qui désactive le fonctionnement jusque au rearmement manuel (appuye prolongé sur le bouton)   
-> une led rouge et verte indique l'etat (activé ou désactivé)  
+*Temposisation du flotteur pour ne pas avoir de declanchement du motoreducteur trop minime a repetition  
+*Un appuye prolonger sur le bouton permet de faire tourner le motoreducteur  
+*Detection de fin de rouleau (delais flotteur haut trop important) qui désactive le fonctionnement jusque au rearmement manuel (appuye prolongé sur le bouton)   
+*une led rouge et verte indique l'etat (activé ou désactivé)  
 
 
 
