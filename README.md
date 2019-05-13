@@ -1,40 +1,40 @@
 # FapDan-s
-Gestion du filtre a papier FapDan's V2
+Gestion du filtre à papier FapDan's V2
 
 
 
 Bonjour,
 
-Ce programme s'occupe de la gestion du filtre a papier FapDan's V2 imprimmer en 3D
+Ce programme s'occupe de la gestion du filtre à papier FapDan's V2 imprimer en 3D
 
-Materiel necessaire :  
+Matériels nécessaires :  
 1 arduino nano  
 2 led  
 1 relais/mosfet  
 1 bouton  
 
 Fonctions :   
-*Temposisation du flotteur pour ne pas avoir de declanchement du motoreducteur trop minime a repetition  
-*Un appuye prolonger sur le bouton permet de faire tourner le motoreducteur  
-*Detection de fin de rouleau (delais flotteur haut trop important) qui désactive le fonctionnement jusque au rearmement manuel (appuye prolongé sur le bouton)   
-*une led rouge et verte indique l'etat (activé ou désactivé)  
+* Temporisation du flotteur pour ne pas avoir de déclanchement du motoréducteur trop minime a répétition.  
+* Un appui prolonger sur le bouton (3 sec) permet de faire tourner le motoréducteur.  
+* Détection de fin de rouleau (délais flotteur haut trop important) qui désactive le fonctionnement jusque au réarmement manuel (appuyé prolongé sur le bouton).   
+* Une led rouge et verte indique l'état (activé ou désactivé).  
 
 
 
-LE tuto de montage est disponible ici :
+Le tuto de montage est disponible ici :
 
 
 Les plans 3D du filtre sont disponible ici:
 
 
 
-vous etes FAN de DIY ... 
-Venez decouvrir l'aquabouns, l'automate de gestion pour aquarium récifal
+Vous êtes FAN de DIY ... 
+Venez découvrir l'aquabouns, l'automate de gestion pour aquarium récifal
 www.aquabouns.fr
 
-telechargement :
+Téléchargement :
 https://github.com/djbouns/aquaboun-s
 
 
 
-A bientot
+A bientôt
