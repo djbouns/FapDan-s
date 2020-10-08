@@ -25,7 +25,7 @@ Le tuto de montage est disponible ici :
 http://www.recifal-france.fr/fabrication-du-fapdan-s-v2-filtre-a-papier-de-a-a-z-t37701.html
 
 Les plans 3D du filtre sont disponible ici:
-https://drive.google.com/file/d/13kIk17P99VG5_2bigwONgd6_M5yDOykW/view?fbclid=IwAR0SGoO-UKfmOe8jIh738BjEh95NGc5prLgaGeWIWvQfnmD3_QoLPugUrbM
+https://drive.google.com/file/d/1vZy-s7xLURN1jLUzqng9r-svdVKQqpR7/view?fbclid=IwAR1CjsqIdS7_Ni99AcV0cOSS9D9rC467wUX3HVE9sSmlo7iRzUOGY3N7P50
 
 un GRAND MERCI a Dan's pour ce filtre 3D
 
