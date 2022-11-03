@@ -30,7 +30,7 @@ Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
 > un appui sur le bouton supérieur a 1.5 seconde remet le système actif et met en marche le moteur. Lorsque vous relâcher le bouton, si le flotteur est bas, le moteur est coupé. Si le flotteur en haut, le moteur continue de tourner jusqu'au moment ou le flotteur soit en position basse.  
 
 ### tuto complet du montage :
-http://www.recifal-france.fr/fabrication-du-fapdan-s-v2-filtre-a-papier-de-a-a-z-t37701.html
+- http://www.recifal-france.fr/fabrication-du-fapdan-s-v2-filtre-a-papier-de-a-a-z-t37701.html
 ### Vidéos de l'assemblage :
 - https://www.youtube.com/watch?v=h5cT0cDPbm4
 - https://www.youtube.com/watch?v=h5cT0cDPbm4
