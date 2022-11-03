@@ -7,14 +7,14 @@ Bonjour,
 Ce filtre a papier 3D a été dessiné par Dan's et j'ai écrit le programme de gestion du filtre.
 
 ### Pour la réalisation, il vous faudras :
-> Du PETG
-> 1 alimentation
-> 1 moteur
-> 1 rouleau de papier
-> 1 arduino nano
-> 2 led + resistance 1k
-> 1 relais/mosfet
-> 1 bouton instantané
+- Du PETG
+- 1 alimentation
+- 1 moteur
+- 1 rouleau de papier
+- 1 arduino nano
+- 2 led + resistance 1k
+- 1 relais/mosfet
+- 1 bouton instantané
 
 #### Fonctions :
 > Temporisation du flotteur pour ne pas avoir de déclenchement du motoréducteur trop minime a répétition.  
