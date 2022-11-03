@@ -2,6 +2,17 @@
 
 ## Le filtre à papier 100% DIY pour l'aquariophilie
 
+ *-*-*-*-*
+ 
+#### Soutenez le projet pour qu'il continue d’évoluer et d’être mis à disposition gratuitement en faisant un DON
+
+
+ [![Donate](https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HWQ5X3M39VEP4)
+ 
+
+ 
+ *-*-*-*-*
+
 Bonjour,
 
 Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
