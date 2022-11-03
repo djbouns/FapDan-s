@@ -7,14 +7,18 @@ Bonjour,
 Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
 
 ### Pour la réalisation, il vous faudras :
-- Du PETG
-- 1 alimentation
-- 1 moteur
-- 1 rouleau de papier
-- 1 arduino nano
-- 2 led + resistance 1k
-- 1 relais/mosfet
-- 1 bouton instantané
+- Du PETG : https://amzn.to/3FKoPeO
+- Motoréducteur 3,5 ou 7 RPM en 12V : https://amzn.to/3Ugyaio
+- Vis inox M3 *10mm : https://amzn.to/3wchOvQ
+- Flotteur : https://amzn.to/3536N45
+- Alimentation 12V 1A : https://amzn.to/2TbOJC2
+- Arduino nano : https://amzn.to/3wakk5R
+- Shield arduino nano : https://amzn.to/3g7mm0U
+- Relais : https://amzn.to/3vgb3ba
+- Vis inox M3 *5mm : https://amzn.to/357KsCc
+- 1 bouton instantané : https://amzn.to/3v9zR4k
+- 2 leds et des resistance 1K : https://amzn.to/3DAKcfS
+
 
 #### Fonctions :
 > Temporisation du flotteur pour ne pas avoir de déclenchement du motoréducteur trop minime a répétition.  
@@ -27,9 +31,10 @@ Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
 
 ## Le tuto de montage est disponible ici :
 http://www.recifal-france.fr/fabrication-du-fapdan-s-v2-filtre-a-papier-de-a-a-z-t37701.html
-
+https://www.youtube.com/watch?v=h5cT0cDPbm4
+-------------------------------------------------------------------------------------------------------------------------------------------------
 un GRAND MERCI a Dan's pour ce filtre 3D
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Vous êtes FAN de DIY ? ... 
 # Venez découvrir l'AQUABOUNS, 
