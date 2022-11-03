@@ -31,13 +31,12 @@ Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
 
 ## Le tuto de montage est disponible ici :
 http://www.recifal-france.fr/fabrication-du-fapdan-s-v2-filtre-a-papier-de-a-a-z-t37701.html
-
 Vu 3D de l'assemblage : https://www.youtube.com/watch?v=h5cT0cDPbm4
--
+
 
 GRAND MERCI a Dan's pour ce filtre 3D
 
--
+
 
 ## Vous êtes FAN de DIY ? ... 
 # Venez découvrir l'AQUABOUNS, 
