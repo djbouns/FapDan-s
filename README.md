@@ -4,7 +4,7 @@
 
 Bonjour,
 
-Ce filtre a papier 3D a été dessiné par Dan's et j'ai écrit le programme de gestion du filtre.
+Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
 
 ### Pour la réalisation, il vous faudras :
 - Du PETG
