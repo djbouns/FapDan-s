@@ -39,12 +39,11 @@ Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
   https://amzn.to/4jeQeXx,
   https://amzn.to/4hcpkh8
 - Lot leds + resistance : https://amzn.to/3C5HD8S
-+ OU
++ Ou
 - Led seul : https://amzn.to/40fuBOa,
   https://amzn.to/40ag9Hq,
   https://amzn.to/3PvMlzX,
-  https://amzn.to/3C55mpJ,
-+ +
+  https://amzn.to/3C55mpJ
 - Resistance seul : https://amzn.to/42sKOT9,
   https://amzn.to/42f93UJ,
   https://amzn.to/3PssS3c,
