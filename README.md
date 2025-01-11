@@ -15,10 +15,10 @@ Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
  
 
 ### Pour la réalisation, il vous faudras :
-- Du PETG : https://amzn.to/428bnMW
-  https://amzn.to/3FKoPeO
-  https://amzn.to/4ja6JEo
-  https://amzn.to/4gOcTZ9
+- Du PETG : https://amzn.to/428bnMW,
+  https://amzn.to/3FKoPeO,
+  https://amzn.to/4ja6JEo,
+  https://amzn.to/4gOcTZ9,
   https://amzn.to/3DQryoc
 - Motoréducteur 3,5 ou 7 RPM en 12V : https://amzn.to/3Ugyaio
 - Vis inox M3 *10mm : https://amzn.to/3wchOvQ
