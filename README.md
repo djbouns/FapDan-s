@@ -24,30 +24,30 @@ Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
 - Vis inox M3 *10mm : https://amzn.to/3wchOvQ
 - Vis inox M3 *5mm : https://amzn.to/357KsCc
 - Flotteur : https://amzn.to/4haH9gu
-- Alimentation 12V 1A ou 2A : https://amzn.to/3Pyc8aK
-  https://amzn.to/4h7XCCi
+- Alimentation 12V 1A ou 2A : https://amzn.to/3Pyc8aK,
+  https://amzn.to/4h7XCCi,
   https://amzn.to/2TbOJC2
-- Arduino nano : https://amzn.to/40f2hLI (original)
-  https://amzn.to/3Pw0kWr
-  https://amzn.to/3wakk5R
+- Arduino nano : https://amzn.to/40f2hLI (original),
+  https://amzn.to/3Pw0kWr,
+  https://amzn.to/3wakk5R,
   https://amzn.to/40f2kXU
 - Shield arduino nano : https://amzn.to/3g7mm0U
-- Relais : https://amzn.to/3vgb3ba
+- Relais : https://amzn.to/3vgb3ba,
   https://amzn.to/42dsw83
-- bouton instantané : https://amzn.to/4gLURa3
-  https://amzn.to/3BT9tFx
-  https://amzn.to/4jeQeXx
+- bouton instantané : https://amzn.to/4gLURa3,
+  https://amzn.to/3BT9tFx,
+  https://amzn.to/4jeQeXx,
   https://amzn.to/4hcpkh8
 - Lot leds + resistance : https://amzn.to/3C5HD8S
-  OU
-- Led seul : https://amzn.to/40fuBOa
-  https://amzn.to/40ag9Hq
-  https://amzn.to/3PvMlzX
-  https://amzn.to/3C55mpJ
+OU
+- Led seul : https://amzn.to/40fuBOa,
+  https://amzn.to/40ag9Hq,
+  https://amzn.to/3PvMlzX,
+  https://amzn.to/3C55mpJ,
 +
-- Resistance seul : https://amzn.to/42sKOT9
-  https://amzn.to/42f93UJ
-  https://amzn.to/3PssS3c
+- Resistance seul : https://amzn.to/42sKOT9,
+  https://amzn.to/42f93UJ,
+  https://amzn.to/3PssS3c,
   https://amzn.to/3PCEsbP
 
 
