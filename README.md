@@ -8,7 +8,7 @@ Bonjour,
 Ce filtre a papier 3D a été développé par Dan's avec ma colaboration.
 
  
-#### Soutenir se projet par un DON, c'est nous permettre de vous proposez de nouveau projet, des evolution et cela, toujours GRATUITEMENT.
+#### Soutenir se projet par un DON, c'est nous permettre de vous proposez de nouveau projet, des évolutions et cela, toujours GRATUITEMENT.
 
 
  [![Donate](https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HWQ5X3M39VEP4)
